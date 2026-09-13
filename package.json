@@ -1,0 +1,16 @@
+{
+  "name": "chainsentinel-ai-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ChainSentinel AI — Enterprise Supply Chain Risk Intelligence (Frontend + Backend)",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "build": "npm run build:backend && npm run build:frontend",
+    "start:backend": "cd backend && npm start",
+    "preview:frontend": "cd frontend && npm run preview",
+    "install:all": "cd frontend && npm install && cd ../backend && npm install"
+  }
+}
