@@ -435,6 +435,6 @@ The platform is configured for leadership operations:
 
 **BharatChain AI — Supply Chain Risk Intelligence**  
 *Predict supply-chain disruptions before they stop production.*  
-© 2026 BharatChain AI Inc. All rights reserved.
+
 
 </div>
